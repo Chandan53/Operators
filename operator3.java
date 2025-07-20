@@ -18,6 +18,7 @@ public class operator3 {
          //    int b=++a;
         //    System.out.println(a);
        //    System.out.println(b);
+       
     
     // post_increment
        int b=a++;
